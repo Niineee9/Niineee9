@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Niineee9">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Building+stuff+just+for+fun+🎮;Hobby+projects+%26+random+experiments+🧪;Fixing+tiny+everyday+problems+🛠️;Always+learning+something+new+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Building+stuff+just+for+fun;Hobby+projects+and+random+experiments;Fixing+tiny+everyday+problems;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -62,12 +62,11 @@ status:       🟣 Online & tinkering
 
 ### 📊 Stats
 
-```text
-> Loading player stats...
-[▓▓░░░░░░░░░░░░░░░░░░] 10%
+**Loading player stats...**
 
-⏳ Coming soon: first quests are on their way!
-```
+🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛ `20%`
+
+⏳ *Coming soon: first quests are on their way!*
 
 <!--
   🔓 Unlock later: when you have some repos and activity,
