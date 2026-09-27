@@ -38,8 +38,6 @@ status:       🟣 Online & tinkering
 **🖥️ Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/Windows%20Server-7c3aed?style=for-the-badge" />
 </p>
 
 **📊 Data**
