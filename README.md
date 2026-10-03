@@ -82,3 +82,6 @@ status:       🟣 Online & tinkering
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:7c3aed&height=100&section=footer" />
 </p>
+
+🐍 Contribution snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niineee9/Niineee9/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niineee9/Niineee9/output/github-snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/Niineee9/Niineee9/output/github-snake-dark.svg" /> </picture> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:7c3aed&height=100&section=footer" /> </p>
